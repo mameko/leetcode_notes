@@ -26,4 +26,4 @@ Sept 27, 2022
 
 Nov 21, 2025
 
-因为notability换了新格式，所有备份都没了。有点担心来这边看看，不过为啥不能sync到我的github？看来圣诞得人手sync过去？ 或者notion啥的...humm，蛋疼
+因为notability换了新格式，所有备份都没了。有点担心来这边看看，sync到github里，除了大厂和自己local备份，谁都信不过
